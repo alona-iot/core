@@ -10,7 +10,7 @@ This repository contains the Elixir/Phoenix application responsible for:
 - exposing APIs and real-time dashboards
 - handling alerts and system health monitoring
 
-The system is designed to run unattended for long periods, prioritizing resilience, fault isolation, and low operational maintenance.
+The system is designed to run unattended for long periods, prioritizing resilience, fault isolation and low operational maintenance.
 
 ## Responsibilities
 
